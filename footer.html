@@ -1,0 +1,1 @@
+<footer class="footer">Copyright <i class="far fa-copyright"></i> 2020 By Nick</footer>
